@@ -23,6 +23,11 @@
 # Web ile Katkıda Bulunma
 - Aynı hesap ile giriş yapıp, çıkan sayfada "Connect to Nexus"a basarsak Web üzerinden puan kazanma işlemi aktifleşir.
 
+# Chromium ile Katkıda Bulunma
+- Chromium kurarak ve sekme üzerinden yani Web ile de katkıda bulunulabiliyor, sisteminiz yüksek ise bunu da yapabilirsiniz.
+
+- Kurulum için https://github.com/0xGutso/Linux_Chromium
+
 # CLI ile Katkıda Bulunma 
 - Docker
 ```
